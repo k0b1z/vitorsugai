@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello Friend 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vitor-massao-sugai/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@vitorsugai)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/massao_sg/)
 
-<!--
-**vitorsugai/vitorsugai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vitor, but you can call me as k0b1z.
 
-Here are some ideas to get you started:
+Knowledge about network, cryptography, Wi-Fi penetration and LGPD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been focusing on learning penetration testing and hacking.
+
+And recently, I have been developing content for the community and trying to share some of my knowledge.
+
+
+### 📫 Contact
+You can contact me by email or direct in my social media.
+- <a href="mailto:vmsugai@protonmail.com">E-mail</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=vitorsugai)](https://github.com/anuraghazra/github-readme-stats)
