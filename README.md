@@ -16,4 +16,8 @@ And recently, I have been developing content for the community and trying to sha
 You can contact me by email or direct in my social media.
 - <a href="mailto:vmsugai@protonmail.com">E-mail</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=vitorsugai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🌐 My GitHub
+[![Stats](https://github-readme-stats.vercel.app/api?username=vitorsugai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📚 Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsugai)](https://github.com/anuraghazra/github-readme-stats)
